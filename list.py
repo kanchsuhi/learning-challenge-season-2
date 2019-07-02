@@ -1,0 +1,26 @@
+list1=[1,2,3,4,5]
+list3=['yalini',3,5,'narmatha']
+print(list3)
+print(list1)
+list1.append(6)
+print(list1)
+list1.pop(-1)
+print(list1)
+list2=list1.copy()
+print(list2)
+list1.extend([6,7,8])
+print(list1)
+list2=list1[4:]
+print(list2)
+list1.remove(8)
+print(list1)
+del list2[3:]
+print(list2)
+print(min(list1))
+print(max(list1))
+print(sum(list1))
+list1.sort()
+print(list1)
+list3.sort()
+print(list3)
+print(list2.count(5))
