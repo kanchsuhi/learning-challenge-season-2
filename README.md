@@ -14,3 +14,11 @@
     -tuple
     -set
   - Learnt about memory allocation of variables in python
+## July 3
+   -Learnt the basics like format,string operator
+   -Learnt the data types
+   -Practised some basic problems
+   -learning on for and while loops
+   -Continuing the youtube tutorial
+   
+   
