@@ -20,5 +20,9 @@
  - Practised some basic problems
  - learning on for and while loops
  - Continuing the youtube tutorial
-   
+## July 4
+  - Learnt the data structures
+  - Solved problems using python
+  - Learnt strings
+  
    
