@@ -29,4 +29,7 @@
   - Did opertions in matrix
   - Learning functions
   - Learnt about zip function
-   
+## July 6
+  - Learnt some of the basics of machine learning
+  - Learnt some basic usage of numpy
+  - Did some program using numpy
