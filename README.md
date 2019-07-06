@@ -24,5 +24,9 @@
   - Learnt the data structures
   - Solved problems using python
   - Learnt strings
-  
+## July 5
+  - Learnt 2D list-Matrix
+  - Did opertions in matrix
+  - Learning functions
+  - Learnt about zip function
    
