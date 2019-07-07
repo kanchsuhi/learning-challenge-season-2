@@ -33,3 +33,8 @@
   - Learnt some of the basics of machine learning
   - Learnt some basic usage of numpy
   - Did some program using numpy
+## July 7
+   - Learnt functions and return statement
+   - Learnt impoting and the usage of libraries
+   - learnt about the keywords like open,rename for files
+   
